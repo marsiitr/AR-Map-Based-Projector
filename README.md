@@ -10,17 +10,17 @@ A R Based Map Projector A R Sandbox is hands-on sandbox combined with 3 D visual
 Aerial Mapping and surveying.
 
 ## Mechanical Aspect of the Design:
-1.Sandbox of dimensions(75*60cm)
-2.stand for kinect (mount on the plywood base of sandbox ,height 80-100cm,30cm long card board with a slot to mount kinect)
-3.stand for projector opposite to kinect stand(height= 170cm)
-4.table for laptop
-5.white sand
+1. Sandbox of dimensions(75*60cm)
+2. stand for kinect (mount on the plywood base of sandbox ,height 80-100cm,30cm long card board with a slot to mount kinect)
+3. stand for projector opposite to kinect stand(height= 170cm)
+4. table for laptop
+5. white sand
 
 ## Electronics Aspect of the Design:
-1.entension board 
-2.microsoft kinect
-3.benq projector
-4.hdmi cable
+1. entension board 
+2. microsoft kinect
+3. benq projector
+4. hdmi cable
 
 ## Cost Structure:
 -Kinect:Rs 5000
@@ -33,10 +33,10 @@ Aerial Mapping and surveying.
 
 1. dynamic projection
 2. projection on uneven surface
-3.projetion on building
+3. projetion on building
 4. military application
-5.oil industries
-6.To determine water flow pattern in valleys(dam construction)
+5. oil industries
+6. To determine water flow pattern in valleys(dam construction)
 
 ## Limitations:
 
@@ -48,12 +48,12 @@ Range of depth sensor is accurate in range of 50cm-4.5m
 2.add water flow animation to study water flow in valleys
 
 ## Team members(in alphabetical order):
-1.Shubham Malviya
-2.Shubhang Pandey
+1. Shubham Malviya
+2. Shubhang Pandey
 
 ## Mentors
-1.Kunal Kumar
-2.Shreeyash Geda
+1. Kunal Kumar
+2. Shreeyash Geda
 
 ## References
 For more information, visit[A R Sandbox](https://arsandbox.ucdavis.edu/)
