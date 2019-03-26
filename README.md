@@ -23,10 +23,10 @@ Aerial Mapping and surveying.
 4. hdmi cable
 
 ## Cost Structure:
--Kinect:Rs 5000
--Projector:Rs 22000
--white sand: (10 kg) Rs 100
--(nut,bolt,aluminium rod,L joints): Rs 300
+- Kinect:Rs 5000
+- Projector:Rs 22000
+- white sand: (10 kg) Rs 100
+- (nut,bolt,aluminium rod,L joints): Rs 300
 
 
 ## Applications:
