@@ -31,12 +31,12 @@ Aerial Mapping and surveying.
 
 ## Applications:
 
-1. dynamic projection
-2. projection on uneven surface
-3. projetion on building
-4. military application
-5. oil industries
-6. To determine water flow pattern in valleys(dam construction)
+- dynamic projection
+- projection on uneven surface
+- projetion on building
+- military application
+- oil industries
+- To determine water flow pattern in valleys(dam construction)
 
 ## Limitations:
 
