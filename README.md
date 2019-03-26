@@ -44,8 +44,8 @@ Range of depth sensor is accurate in range of 50cm-4.5m
 
 ## Future Improvements:
 
-1.Perspective transformation to make depth mapping more accurate.
-2.add water flow animation to study water flow in valleys
+1. Perspective transformation to make depth mapping more accurate.
+2. add water flow animation to study water flow in valleys
 
 ## Team members(in alphabetical order):
 1. Shubham Malviya
