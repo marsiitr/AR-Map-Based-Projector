@@ -20,9 +20,16 @@ Aerial Mapping and surveying.
 
 ## Electronics Aspect of the Design:
 1. Extension board 
-2. Microsoft kinect
+2. Microsoft kinect v2
 3. Benq projector
 4. Hdmi cable
+
+## Softwares used
+1. kinect SDK
+2. KinectConfigurationVerifier
+3. processing-3.5.3
+4. Kinect Pv2 library
+
 
 ## Cost Structure:
 
