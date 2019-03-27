@@ -17,7 +17,7 @@ Aerial Mapping and surveying.
 5. white sand
 
 ## Electronics Aspect of the Design:
-1. entension board 
+1. extension board 
 2. microsoft kinect
 3. benq projector
 4. hdmi cable
