@@ -63,8 +63,12 @@ Range of depth sensor is accurate in range of 50cm-4.5m
 2. add water flow animation to study water flow in valleys
 
 ## Team members:
-1. Shubham Malviya
+
+1. Shubham Malviya  
 2. Shubhang Pandey
+
+<img src="https://user-images.githubusercontent.com/48958222/55109353-abbfd500-50fb-11e9-9ba8-3227992f6d11.jpeg" width="250">
+
 
 ## Mentors:
 1. Kunal Kumar
