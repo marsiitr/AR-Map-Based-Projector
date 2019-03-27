@@ -13,36 +13,36 @@ Aerial Mapping and surveying.
 
 ## Mechanical Aspect of the Design:
 1. Sandbox of dimensions(75*60cm)
-2. stand for kinect (mount on the plywood base of sandbox ,height 80-100cm,30cm long card board with a slot to mount kinect)
-3. stand for projector opposite to kinect stand(height= 170cm)
-4. table for laptop
-5. white sand
+2. Stand for kinect (mount on the plywood base of sandbox ,height 80-100cm,30cm long card board with a slot to mount kinect)
+3. Stand for projector opposite to kinect stand(height= 170cm)
+4. Table for laptop
+5. White sand
 
 ## Electronics Aspect of the Design:
-1. extension board 
-2. microsoft kinect
-3. benq projector
-4. hdmi cable
+1. Extension board 
+2. Microsoft kinect
+3. Benq projector
+4. Hdmi cable
 
 ## Cost Structure:
 
 |components  |    cost       |
 |------------|:-------------:| 
-| Kinect           | 5000 Rs             | 
-| Projector           |  22000 Rs            | 
-| white sand           |      500 Rs        |
-|nut,bolt,aluminium rod,L joints| 300 Rs|
+| Kinect           |5000 Rs   | 
+| Projector           |22000 Rs| 
+| white sand           |500 Rs|
+|nut,bolt,aluminium rod,L joints|300 Rs|
 
 
 
 
 ## Applications:
 
-- dynamic projection
-- projection on uneven surface
-- projetion on building
-- military application
-- oil industries
+- Dynamic projection
+- Projection on uneven surface
+- Projetion on building
+- Military application
+- In cil industries
 - To determine water flow pattern in valleys(dam construction)
 
 ## Limitations:
@@ -63,7 +63,7 @@ Range of depth sensor is accurate in range of 50cm-4.5m
 2. Shreeyash Geda
 
 ## References
-For more information, visit[A R Sandbox](https://arsandbox.ucdavis.edu/)
+For more information, visit[ AR Sandbox](https://arsandbox.ucdavis.edu/)
 
 
 
