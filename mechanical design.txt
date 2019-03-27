@@ -1,6 +1,0 @@
-Mechanical Aspect of the Design:
-1)Sandbox of dimensions(75*60cm)
-2)stand for kinect (mount on the plywood base of sandbox ,height 80-100cm,30cm long card board with a slot to mount kinect)
-3)stand for projector opposite to kinect stand(height= 170cm)
-4)table for laptop
-5)white sand
