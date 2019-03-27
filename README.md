@@ -40,7 +40,7 @@ Aerial Mapping and surveying.
 
 - Dynamic projection
 - Projection on uneven surface
-- Projetion on building
+- Projection on building
 - Military application
 - In cil industries
 - To determine water flow pattern in valleys(dam construction)
