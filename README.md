@@ -2,7 +2,8 @@
 Srishti 2019
 
 ## Image of the project
-![](Images%20and%20Videos/Images/ARSandbox.png)
+
+<img src="Images%20and%20Videos/Images/ARSandbox.png" width="400" >
 
 ## ABSTRACT:
 
