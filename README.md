@@ -2,7 +2,7 @@
 Srishti 2019
 
 ## Image of the project
-![](Images and vedio/completesetup.jpeg)
+![](Images%20and%20vedio/completesetup.jpeg)
 
 ## ABSTRACT:
 
