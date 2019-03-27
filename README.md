@@ -49,7 +49,7 @@ Aerial Mapping and surveying.
 - Projection on uneven surface
 - Projection on building
 - Military application
-- In cil industries
+- In oil industries
 - To determine water flow pattern in valleys(dam construction)
 
 ## Limitations:
@@ -61,11 +61,11 @@ Range of depth sensor is accurate in range of 50cm-4.5m
 1. Perspective transformation to make depth mapping more accurate.
 2. add water flow animation to study water flow in valleys
 
-## Team members(in alphabetical order):
+## Team members:
 1. Shubham Malviya
 2. Shubhang Pandey
 
-## Mentors
+## Mentors:
 1. Kunal Kumar
 2. Shreeyash Geda
 
