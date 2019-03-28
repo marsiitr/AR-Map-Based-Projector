@@ -35,11 +35,11 @@ Aerial Mapping and surveying.
 ## Cost Structure:
 
 |S.No|components  |    cost       |
-|1|------------|-------------| 
-|2| Kinect           |5000 Rs   | 
-|3| Projector           |22000 Rs| 
-|4| white sand           |500 Rs|
-|5|nut,bolt,aluminium rod,L joints|300 Rs|
+|-------|------------|-------------| 
+|1| Kinect           |5000 Rs   | 
+|2| Projector           |22000 Rs| 
+|3| white sand           |500 Rs|
+|4|nut,bolt,aluminium rod,L joints|300 Rs|
 
 
 
