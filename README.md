@@ -34,12 +34,12 @@ Aerial Mapping and surveying.
 
 ## Cost Structure:
 
-|components  |    cost       |
-|------------|-------------| 
-| Kinect           |5000 Rs   | 
-| Projector           |22000 Rs| 
-| white sand           |500 Rs|
-|nut,bolt,aluminium rod,L joints|300 Rs|
+|S.No|components  |    cost       |
+|1|------------|-------------| 
+|2| Kinect           |5000 Rs   | 
+|3| Projector           |22000 Rs| 
+|4| white sand           |500 Rs|
+|5|nut,bolt,aluminium rod,L joints|300 Rs|
 
 
 
@@ -75,7 +75,7 @@ Range of depth sensor is accurate in range of 50cm-4.5m
 2. Shreeyash Geda
 
 ## References
-For more information, visit[ AR Sandbox](https://arsandbox.ucdavis.edu/)
+For more information, visit[ AR Sandbox](https://www.youtube.com/watch?v=YLYO0YhY83w)
 
 
 
