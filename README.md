@@ -3,7 +3,7 @@ Srishti 2019
 
 ## Image of the project
 
-<img src="Images%20and%20Videos/Images/IMG_20190308_203611603.jpg" width="600" >
+<img src="Images and Videos/Images/final setup.jpg" width="500" >
 
 ## ABSTRACT:
 
