@@ -1,9 +1,7 @@
 # AR-Map-Based-Projector
 Srishti 2019
 
-## Image of the project
-
-<img src="Images and Videos/Images/final setup.jpg" width="500" >
+<img src="Images and Videos/Images/final setup.jpg" >
 
 ## ABSTRACT:
 
@@ -26,20 +24,20 @@ Aerial Mapping and surveying.
 4. Hdmi cable
 
 ## Softwares used
-1. kinect SDK
+1. Kinect SDK
 2. KinectConfigurationVerifier
-3. processing-3.5.3
+3. Processing-3.5.3
 4. Kinect Pv2 library
 
 
 ## Cost Structure:
 
-|S.No|components  |    cost       |
+|S.No|Components  |    Cost (INR)      |
 |-------|------------|-------------| 
-|1| Kinect           |5000 Rs   | 
-|2| Projector           |22000 Rs| 
-|3| white sand           |500 Rs|
-|4|nut,bolt,aluminium rod,L joints|300 Rs|
+|1| Kinect           |5000   | 
+|2| Projector           |22000 | 
+|3| White sand           |500 |
+|4|Nut,Bolt,Aluminium Rod,L Joints|300 |
 
 
 
@@ -60,22 +58,20 @@ Range of depth sensor is accurate in range of 50cm-4.5m
 ## Future Improvements:
 
 1. Perspective transformation to make depth mapping more accurate.
-2. add water flow animation to study water flow in valleys
+2. Add water flow animation to study water flow in valleys
 
 ## Team members:
 
 1. Shubham Malviya  
 2. Shubhang Pandey
 
-<img src="https://user-images.githubusercontent.com/48958222/55109353-abbfd500-50fb-11e9-9ba8-3227992f6d11.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/48958222/55109353-abbfd500-50fb-11e9-9ba8-3227992f6d11.jpeg" >
 
 
 ## Mentors:
 1. Kunal Kumar
 2. Shreeyash Geda
 
-## References
-For more information, visit[ AR Sandbox](https://www.youtube.com/watch?v=YLYO0YhY83w)
 
 
 
